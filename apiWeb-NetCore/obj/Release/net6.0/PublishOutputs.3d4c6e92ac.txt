@@ -1,0 +1,17 @@
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\apiWeb-NetCore.exe
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\apiWeb-NetCore.dll
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\apiWeb-NetCore.deps.json
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\apiWeb-NetCore.runtimeconfig.json
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\apiWeb-NetCore.pdb
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyectos\cursos\apiWeb-NetCore\apiWeb-NetCore\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

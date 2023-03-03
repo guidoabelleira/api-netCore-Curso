@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b7B+o2ZHmEWa52LIgzaTADzGMvmJG/Sx0s/jxvR/sG4=",
+  "Source": "apiWeb-NetCore",
+  "BasePath": "_content/apiWeb-NetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
